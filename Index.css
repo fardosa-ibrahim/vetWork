@@ -1,5 +1,10 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
 body{
-  display: block;
  background-color: rgb(244, 252, 250);
 }
   .sec1{
@@ -137,21 +142,22 @@ body{
     }
     .div2{
       display: flex;
+      margin-top: 10px;
     }
     .four{
      margin-left: 8%;
      background-color: white;
-     margin-top: 0.3%;
+     margin-top: 2%;
     }
     .five{
      margin-left: 16%;
      background-color: white;
-     margin-top: 0.3%;
+     margin-top: 2%;
     }
     .six{
       margin-left: 15%;
       background-color: white;
-      margin-top: 0.3%;
+      margin-top: 2%;
     }
     .i1{
       color: rgb(112, 186, 235);
